@@ -12,4 +12,4 @@ test to push to remote
 
 test pull: updation by teammate on WI5
 
-test rebase with cnflict this change is by teammate
+change 5: test rebase conflict resolved for wi6 and wi7
