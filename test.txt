@@ -9,3 +9,5 @@ change 3 :-> by teammate for bug3
 change 4 :-> to fix bug2
 
 test to push to remote
+
+test pull: updation by teammate on WI5
